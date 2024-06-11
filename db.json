@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "id": "ph1",
+            "quartier": "Raid",
+            "nom": "Pharmacier Annasr",
+            "prix": 50,
+            "adress": "5 Av Ennakhil",
+            "tel": "0537372121",
+            "para": true
+        },
+        {
+            "id": "ph2",
+            "quartier": "Yaahoub Al Ennakhil",
+            "nom": "Pharmacier Al Abtal",
+            "prix": 50,
+            "adress": "8 Av des FAR",
+            "tel": "0537372121",
+            "para": false
+        }
+    ]
+}
